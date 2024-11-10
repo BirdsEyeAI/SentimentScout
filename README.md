@@ -1,5 +1,5 @@
 # SentimentScout
-SentimentScout: Real-Time Multilingual Market Sentiment Analysis
+Real-Time Multilingual Market Sentiment Analysis
 
 📊 Your All-in-One LLM-Driven Solution for Understanding Global Market Sentiment 
 
