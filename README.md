@@ -10,7 +10,7 @@ SentimentScout is a powerful, business-oriented tool that leverages Natural Lang
 In today's data-driven world, companies need to stay informed and responsive to the latest trends, user sentiments, and news cycles across languages and regions. SentimentScout makes this process easy by scraping trending headlines, performing machine translation for multilingual accessibility, summarizing articles for quick digestion, and conducting sentiment analysis to gauge public opinion. With automated NLP-driven Exploratory Data Analysis (EDA), organizations can leverage data from multiple sources to gain competitive insights, improve decision-making, and optimize marketing strategies. 
 
 <h2>✨ Key Features:</h2>
-Dynamic Real-Time Web Scraping or Static Dataset Analysis
+<h3>Dynamic Real-Time Web Scraping or Static Dataset Analysis</h3>
 Retrieve tending content to learn what people are saying about a target subject in real-time, or analyze static datasets with ease. This flexibility allows organizations to monitor current events or explore historical data, making it ideal for both market trend analysis and long-term insights.
 
 <h3>Efficient and Concise Summarization Using LLMs</h3>
