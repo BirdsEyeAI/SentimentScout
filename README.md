@@ -3,7 +3,7 @@ Real-Time Multilingual Market Sentiment Analysis using Large Language Models
 
 📊 Your All-in-One LLM-Driven Solution for Understanding Global Market Sentiment 
 
-Project Overview:
+<h1>Project Overview:</h1>
 SentimentScout is a powerful, business-oriented tool that leverages Natural Language Processing (NLP) and state-of-the-art Large Language Models (LLMs) to provide real-time insights from trending headlines and user-generated content. Built with Python, Hugging Face LLMs, and Streamlit, this tool enables organizations to scrape and process content dynamically, supporting a broad range of NLP capabilities to unlock actionable strategic insights from multi-language sources.
 
 Business Impact:
