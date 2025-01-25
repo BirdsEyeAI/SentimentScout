@@ -1,4 +1,4 @@
-Real-Time Multilingual Market Sentiment Analysis using Large Language Models
+Real-Time Multilingual Market Sentiment Analysis using Large Language Models and APIs
 
 Your All-in-One LLM-Driven Solution for Understanding Global Market Sentiment 
 
@@ -10,7 +10,7 @@ In today's data-driven world, companies need to stay informed and responsive to 
 
 <h2>✨ Key Features:</h2>
 <h3>📊 Dynamic Real-Time Web Scraping or Static Dataset Analysis</h3>
-Retrieve tending content to learn what people are saying about a target subject in real-time, or analyze static datasets with ease. This flexibility allows organizations to monitor current events or explore historical data, making it ideal for both market trend analysis and long-term insights.
+Retrieve trending content using APIs to learn what people are saying about a subject in real-time, or analyze static datasets with ease. This flexibility allows organizations to monitor current events or explore historical data, making it ideal for both market trend analysis and long-term insights.
 
 <h3>Efficient and Concise Summarization Using LLMs</h3>
 Leverage advanced HuggingFace Large Language Models (LLMs) for accurate and to-the-point summaries, enabling quick decision-making by distilling key information from lengthy articles or reports. Ideal for busy teams needing fast, actionable insights.
