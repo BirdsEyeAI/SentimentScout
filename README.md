@@ -26,3 +26,5 @@ Identify and track public sentiment across topics, enabling a real-time pulse on
 
 <h3>User-Friendly Dashboard Designed for Non-Technical Teams</h3>
 A Streamlit-powered dashboard designed with non-technical users in mind, facilitating cross-functional collaboration. The intuitive interface translates complex analytics into easily digestible insights, promoting shared understanding and improving communication across departments.
+
+<h2>Enhancements</h2>
