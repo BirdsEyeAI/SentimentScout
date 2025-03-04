@@ -1,4 +1,4 @@
-Real-Time Multilingual Market Sentiment Analysis using Large Language Models and APIs
+Real-Time Multilingual Market Sentiment Analysis using Large Language Models and REST APIs
 
 Your All-in-One LLM-Driven Solution for Understanding Global Market Sentiment 
 
